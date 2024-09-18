@@ -11,7 +11,6 @@ const MealCard = ({ meal }) => {
                     alt={meal.strMeal}
                     className='w-full  object-cover rounded-t-lg transition-opacity duration-300 hover:opacity-30'
                 />
-                </div>
                 <div className='p-4'>
                     <h3 className='text-center text-lg font-semibold h-20  overflow-hidden text-gray-800'>
                         {meal.strMeal}
