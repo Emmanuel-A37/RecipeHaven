@@ -33,7 +33,7 @@ export const footerLinks = [
     {
         title: "LEARN",
         name : "ABOUT",
-        link : "/"    
+        link : "/about"    
     },
     {
         title: "LEGAL",
